@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[KESS MEDIA]]></title>
-        <description><![CDATA[KESS MEDIA]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Creations by Alexander Kesselaar]]></title>
+        <description><![CDATA[Creations by Alexander Kesselaar]]></description>
+        <link>https://thegrid.ai/kess.media/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 10:38:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 01 May 2016 11:59:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kess.media/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Georges River - Como]]></title>
+            <description><![CDATA[<article><h1>Georges River - Como</h1><p>Sunset near Como Pleasure Grounds taken from 120m above sealevel using my DJI Phantom 4 - 5 Stitch Pano</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ba7a5f06b4221385f9f16d6da912b6c0d63881d.jpg"></article>]]></description>
+            <link>https://500px.com/photo/151756849/georges-river-como-by-alexander-kesselaar?ctx_page=1&amp;from=user&amp;user_id=79976</link>
+            <guid isPermaLink="false">8a01f47a-1c6e-429d-b911-12e2504816b9</guid>
+            <pubDate>Sun, 01 May 2016 11:59:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wherever I May Drone - Episode 1 - Home Sweet Home]]></title>
             <description><![CDATA[<article><h1>Wherever I May Drone - Episode 1 - Home Sweet Home</h1><p>So I did it. I bought myself a drone. It's what you do when you have a midlife crisis, but can't afford a Tesla. I bought the new Phantom 4 from DJI and it is an incredible bit of gear. Really well built and it is incredibly easy to fly.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b05e39ee6ed30ce6bc266db80b50f27980fb1b5.png"></article>]]></description>
-            <link>undefinedwherever-i-may-drone-episode-1-home-sweet-home/index.html</link>
+            <link>https://thegrid.ai/kess.media/wherever-i-may-drone-episode-1-home-sweet-home/index.html</link>
             <guid isPermaLink="false">4f0c4fe9-d1cb-4c8a-9eb5-f94b8dd981a6</guid>
             <pubDate>Sun, 01 May 2016 10:38:23 GMT</pubDate>
         </item>
