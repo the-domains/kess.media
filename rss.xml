@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[KESS MEDIA]]></title>
+        <description><![CDATA[KESS MEDIA]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 01 May 2016 10:38:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wherever I May Drone - Episode 1 - Home Sweet Home]]></title>
+            <description><![CDATA[<article><h1>Wherever I May Drone - Episode 1 - Home Sweet Home</h1><p>So I did it. I bought myself a drone. It's what you do when you have a midlife crisis, but can't afford a Tesla. I bought the new Phantom 4 from DJI and it is an incredible bit of gear. Really well built and it is incredibly easy to fly.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b05e39ee6ed30ce6bc266db80b50f27980fb1b5.png"></article>]]></description>
+            <link>undefinedwherever-i-may-drone-episode-1-home-sweet-home/index.html</link>
+            <guid isPermaLink="false">4f0c4fe9-d1cb-4c8a-9eb5-f94b8dd981a6</guid>
+            <pubDate>Sun, 01 May 2016 10:38:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
